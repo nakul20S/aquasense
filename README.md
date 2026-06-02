@@ -168,9 +168,6 @@ Open `http://localhost:5173`
 ## Future Roadmap
 
 - [ ] TinyML deployment on ESP32 for on-device anomaly detection
-- [ ] Mobile application (Android/iOS)
-- [ ] Cloud database integration (Firebase / AWS IoT)
-- [ ] Predictive yield analytics using historical data
 - [ ] Automated feeding schedule optimization
 - [ ] Multi-pond management dashboard
 
